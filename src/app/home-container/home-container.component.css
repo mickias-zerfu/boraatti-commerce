@@ -22,7 +22,7 @@
 .slide.slide-1 {
   background-image: url("../../assets/images/Bg/slider/1.png");
 }
-.slide.slide-2 {
+/* .slide.slide-2 {
   background-image: url("../../assets/images/Bg/slider/2.png");
 }
 .slide.slide-3 {
@@ -30,7 +30,7 @@
 }
 .slide.slide-4 {
   background-image: url("../../assets/images/Bg/slider/4.png");
-}
+} */
 .slide img {
   height: auto; /* Adjust the height of the image according to its aspect ratio */
   width: 100%; /* Make the image fill the width of the slider */
